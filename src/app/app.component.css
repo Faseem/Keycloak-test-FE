@@ -1,0 +1,24 @@
+.banner {
+    background-color:darksalmon;
+    font-size: 2rem;
+    font-weight: 150;
+    line-height: 1.1;
+    padding: 20px;
+    margin-bottom: 1em;
+}
+
+.flex-container {
+    display: flex;
+    margin-left: 1em;
+}
+
+.box {
+    flex: auto;
+    background-color: thistle;
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+.box-content {
+    padding: 1em;
+}
